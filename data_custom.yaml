@@ -1,0 +1,6 @@
+train: C:\Projects\dataset\train
+val: C:\Projects\dataset\val
+
+nc: 2
+
+names: ["whole", "broken"]

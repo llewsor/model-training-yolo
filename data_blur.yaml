@@ -1,0 +1,5 @@
+val: C:/Projects/dataset/dataset_test_motion_blur
+train: images # dummy path (won't be used if you're only running val)
+nc: 2
+
+names: ["whole", "broken"]
